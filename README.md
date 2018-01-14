@@ -20,3 +20,5 @@ If you think that this project can be improved, please feel free to submit a PR.
 navigate to [http://localhost:8080/](http://localhost:8080/)
 
 If you think this repo may be helpful to you in building React projects and/or learning more about Webpack, please go ahead an use it.
+
+[Webpack guides which helped me to build this](https://webpack.js.org/guides/getting-started/)
