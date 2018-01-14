@@ -4,6 +4,8 @@
   "description": "A Webpack setup for React containing the essential config to run a dev server",
   "main": "index.js",
   "scripts": {
+    "dev": "webpack-dev-server",
+    "build": "webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
